@@ -49,7 +49,7 @@ main{
 #welcome h1{
     font-family: lato;
     font-weight: 900;
-    margin: 3em 0em 1em 0em;
+    margin: 3em 0em 0em 0em;
     font-size: calc(1em + 3vw)
 }
 #welcome img,#bio2 img{
