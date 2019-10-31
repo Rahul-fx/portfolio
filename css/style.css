@@ -144,6 +144,7 @@ footer a{
     margin: 0px 10px;
     transition: all .2s ease-out;
     padding-top: 5px;
+    font-size: 85%;
 }
 footer a:focus{
     background: #ffd900;
