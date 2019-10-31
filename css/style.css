@@ -132,7 +132,7 @@ header img{
 }
 footer{
     background: #eee;
-    padding: 50px;
+    padding: 50px 0;
     display: flex;
     justify-content: center;
 }
@@ -141,7 +141,7 @@ footer a{
     border-bottom: 2px solid #ffd900;
     text-decoration: none;
     font-family: Comfortaa;
-    margin: 0px 25px;
+    margin: 0px 10px;
     transition: all .2s ease-out;
     padding-top: 5px;
 }
