@@ -167,7 +167,7 @@ footer a:focus{
     border-radius: 5px;
 }
 #Behance{
-    display: grid;
+    display: none;
     grid-template-columns: 1fr 1.29fr 1fr;
     grid-gap: 1em;
     margin-bottom:4em;
@@ -200,7 +200,7 @@ footer a:focus{
         display: block;
         font-family: lato;
         font-weight: 900;
-        color: #fff;
+        color: #ffd900;
         position: absolute;
         top: 65vh;
         padding: 15px;
@@ -211,6 +211,7 @@ footer a:focus{
     }
     .bio{
     display: none;
+    
 }
     .hire_me{
     padding: 10px;
@@ -259,6 +260,10 @@ footer a:focus{
     .project_intro h1{
     font-size: 25px;
 }
+#Behance {
+    grid-template-columns: 1fr;
+    margin-bottom: 2em;
+}
     
 } 
 .embed-responsive {
@@ -290,4 +295,5 @@ footer a:focus{
 .embed-responsive-16by9::before {
   padding-top: 56.25%;
 }
+
 
