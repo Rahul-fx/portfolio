@@ -60,7 +60,7 @@
             </div>
         </main>
 	    <aside>
-		<a href ="about.html" class="about_me" style="margin:2em auto;" id="b">More</a>
+		<a href ="javascript:void(0)" class="about_me" style="margin:2em auto;" id="b" onclick="new_Behance()">More</a>
 		    <div id="Behance">
 			    <img src="img/matt1.jpg" alt="Rahul Kumar">
 			    <div class="bb">
@@ -88,6 +88,11 @@ function typeWriter() {
     i++;
     setTimeout(typeWriter, speed);
   }
+}
+
+function new_Behance(){
+    document.getElementById("b").style.display = "none";
+    document.getElementById("Behance").style.display = "grid";
 }
 </script>
 
