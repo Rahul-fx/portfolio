@@ -166,6 +166,9 @@ footer a:focus{
     background: #000; 
     border-radius: 5px;
 }
+.Behance img{
+    width:100%;
+}
 
 /* Custom Scrollbars Ends */
 
