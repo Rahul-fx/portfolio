@@ -166,13 +166,13 @@ footer a:focus{
     background: #000; 
     border-radius: 5px;
 }
-.Behance{
+#Behance{
     display: grid;
     grid-template-columns: 1fr 1.29fr 1fr;
     grid-gap: 1em;
     margin-bottom:4em;
 }
-.Behance img{
+#Behance img{
     width:100%;
 }
 
