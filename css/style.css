@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 h2,h3,h4,h5,h6{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     color:##fca311; 
     margin-top: 15px;
 }
@@ -20,7 +20,7 @@ nav{
     border: 1px solid #ffd900;
     background: #fca311;
     border-radius: 20px;
-    font-family: Comfortaa;
+    font-family: Californian FB;
     text-decoration: none;
     display: block;
     width: 125px;
@@ -56,7 +56,7 @@ header img{
     font-weight: 900;
 }
 .bio p{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     line-height: 22px;
     margin: 10px 0px 15px 0px;
 }
@@ -78,7 +78,7 @@ header img{
     color: #000;
     border: 1px solid #000;
     border-radius: 20px;
-    font-family: Comfortaa;
+    font-family: Californian FB;
     text-decoration: none;
     display: block;
     width: 150px;
@@ -93,13 +93,13 @@ header img{
     transition: all .3s ease-out;
 }
 .heading{
-    font-family: lato;
+    font-family: Californian FB;
     font-weight: 900;
     text-align: center;
     margin-top: 70px;
 }
 .sub_heading{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     line-height: 22px;
     text-align: center;
     margin: 5px 0px 20px 0px;
@@ -119,11 +119,11 @@ header img{
     padding: 10vh 5em 0em 5em;
 }
 .project_intro h1{
-    font-family: lato;
+    font-family: Californian FB;
     font-weight: 900;
 }
 .project_intro p{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     line-height: 22px;
     margin: 10px 0px 15px 0px;
 }
@@ -141,7 +141,7 @@ footer a{
     color:#000;
     border-bottom: 2px solid #ffd900;
     text-decoration: none;
-    font-family: Comfortaa;
+    font-family: Californian FB;
     margin: 0px 10px;
     transition: all .2s ease-out;
     padding-top: 5px;
@@ -198,7 +198,7 @@ footer a:focus{
 }
     #hello{
         display: block;
-        font-family: lato;
+        font-family: Californian FB;
         font-weight: 900;
         color: #fca311;
         position: absolute;
@@ -218,7 +218,7 @@ footer a:focus{
     color: #000;
     border: 1px solid #000;
     border-radius: 20px;
-    font-family: Comfortaa;
+    font-family: Californian FB;
     text-decoration: none;
     display: block;
     width: 130px;
@@ -241,7 +241,7 @@ footer a:focus{
     padding: 0em 2em;
 }
     .sub_heading{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     line-height: 22px;
     text-align: center;
     margin: 5px 0px 50px 0px;
