@@ -5,7 +5,7 @@
 }
 h2,h3,h4,h5,h6{
     font-family: Comfortaa;
-    color:#ffc107; 
+    color:##fca311; 
     margin-top: 15px;
 }
 nav{
@@ -18,7 +18,7 @@ nav{
     padding: 10px;
     color: #fff;
     border: 1px solid #ffd900;
-    background: #ffd900;
+    background: #fca311;
     border-radius: 20px;
     font-family: Comfortaa;
     text-decoration: none;
@@ -148,7 +148,7 @@ footer a{
     font-size: 85%;
 }
 footer a:focus{
-    background: #ffd900;
+    background: #fca311;
     transition: all .2s ease-out;
 }
 ::selection {
@@ -200,7 +200,7 @@ footer a:focus{
         display: block;
         font-family: lato;
         font-weight: 900;
-        color: #ffd900;
+        color: #fca311;
         position: absolute;
         top: 65vh;
         padding: 15px;
