@@ -5,7 +5,7 @@
 }
 h2,h3,h4,h5,h6{
     font-family: Californian FB;
-    color:##fca311; 
+    color:#fca311; 
     margin-top: 15px;
 }
 nav{
@@ -17,7 +17,7 @@ nav{
 .about_me{
     padding: 10px;
     color: #fff;
-    border: 1px solid #ffd900;
+    border: 1px solid #fca311;
     background: #fca311;
     border-radius: 20px;
     font-family: Californian FB;
@@ -31,7 +31,7 @@ nav{
     text-shadow: 1px 1px 1px #999;
 }
 .about_me:hover{
-    border: 1px solid #f3af17;
+    border: 1px solid #fca311;
     background: #f3af17;
     transition: all .3s ease-out;
 }
@@ -52,7 +52,7 @@ header img{
     padding: 30vh 5em 0em 4em;
 }
 .bio h1{
-    font-family: lato;
+    font-family: Californian FB;
     font-weight: 900;
 }
 .bio p{
@@ -61,7 +61,7 @@ header img{
     margin: 10px 0px 15px 0px;
 }
 .first{
-    font: 500 50px/30px Abril Fatface;
+    font: 500 50px/30px Californian FB;
     float: left;
     text-align: center;
     margin: 0;
@@ -220,7 +220,7 @@ footer a:focus{
     border-radius: 20px;
     font-family: Californian FB;
     text-decoration: none;
-    display: block;
+    display: #14213D;
     width: 130px;
         font-size: 14px;
     text-align: center;
