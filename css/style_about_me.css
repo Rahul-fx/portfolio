@@ -5,7 +5,7 @@
 }
 h2,h3,h4,h5,h6{
     font-family: Californian FB;
-    color:#ffc107; 
+    color:#fca311; 
     margin-top: 15px;
 }
 nav{
@@ -34,8 +34,8 @@ nav{
     text-shadow: 1px 1px 1px #999;
 }
 .portfolio:hover{
-    border: 1px solid #f3af17;
-    background: #f3af17;
+    border: 1px solid #fca311;
+    background: #fca311;
     transition: all .3s ease-out;
 }
 main{
@@ -105,7 +105,7 @@ footer{
     justify-content: center;
 }
 footer a{
-    color:#000;
+    color:#14213d;
     border-bottom: 2px solid #ffd900;
     text-decoration: none;
     font-family: Californian FB;
@@ -119,7 +119,7 @@ footer a:focus{
     transition: all .2s ease-out;
 }
 ::selection {
-    background: #ddd;
+    background: #e5e5e5;
 }
 /* Custom Scrollbars */
 ::-webkit-scrollbar {
@@ -130,7 +130,7 @@ footer a:focus{
     border-radius: 5px;
 }
 ::-webkit-scrollbar-thumb {
-    background: #000; 
+    background: #14213d; 
     border-radius: 5px;
 }
 
