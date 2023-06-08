@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 h2,h3,h4,h5,h6{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     color:#ffc107; 
     margin-top: 15px;
 }
@@ -23,7 +23,7 @@ nav{
     border: 1px solid #ffd900;
     background: #ffd900;
     border-radius: 20px;
-    font-family: Comfortaa;
+    font-family: Californian FB;
     text-decoration: none;
     display: block;
     width: 125px;
@@ -48,7 +48,7 @@ main{
     grid-column: 2/12;
 }
 #welcome h1{
-    font-family: lato;
+    font-family: Californian FB;
     font-weight: 900;
     margin: 3em 0em 0em 0em;
     font-size: calc(1em + 3vw)
@@ -62,7 +62,7 @@ main{
     grid-column: 3/10;
 }
 #bio p,#bio2 p,#bio3 ul li,#bio4 p{
-    font-family: Comfortaa;
+    font-family: Californian FB;
     font-size: calc(14px + .25vw);
     line-height: 25px;
 }
@@ -75,7 +75,7 @@ main{
     grid-column: 6/11;
 }
 #bio3 h1{
-    font-family: lato;
+    font-family: Californian FB;
     font-weight: 900;
     margin: .5em 0em;
     font-size: calc(1em + 2vw)
@@ -108,7 +108,7 @@ footer a{
     color:#000;
     border-bottom: 2px solid #ffd900;
     text-decoration: none;
-    font-family: Comfortaa;
+    font-family: Californian FB;
     margin: 0px 10px;
     transition: all .2s ease-out;
     padding-top: 5px;
